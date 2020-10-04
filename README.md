@@ -6,7 +6,7 @@ Console.log('Hello World, U call me by Viet Nguyen :>')
 -------------------------------------------------------
 ```
 
-#### Some things about my self :pencil:
+#### Somethings about myself :pencil:
 - I am currently working as a Mobile Developer ([React Native](https://reactnative.dev)) with ~1years of experience. <br />
 - I am so welcome and happy to learn, to share and to talk about IT knowlege. <br />
 - I always try to practice to improve all my skills (Tech, life, ...), everything new that make myself better everyday. <br />
