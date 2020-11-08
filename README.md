@@ -7,7 +7,7 @@ Console.log('Hello World, U call me by Viet Nguyen :>')
 ```
 
 #### Somethings about myself :pencil:
-- I am currently working as a Mobile Developer ([React Native](https://reactnative.dev)) with ~1years of experience. <br />
+- I am currently working as a Mobile Developer ([React Native](https://reactnative.dev)) with more than 6 months of experience, and I am trying to learn, research more about ([ReactJS](https://reactjs.org/)) and ([NodeJS](https://nodejs.dev/)) for my self-skills. <br />
 - I am so welcome and happy to learn, to share and to talk about IT knowlege. <br />
 - I always try to practice to improve all my skills (Tech, life, ...), everything new that make myself better everyday. <br />
 - I am intertested in reading, writing, listening and watching!
