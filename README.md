@@ -16,7 +16,7 @@ Console.log('Hello World, U call me by Viet Nguyen :>')
 :link: [LinkedIn](https://www.linkedin.com/in/viet-hoang-nguyen-656227171) <br />
 :octocat: [Github](https://github.com/vietnguyenhoangw)<br />
 :video_camera: [Youtube for my young life](https://www.youtube.com/channel/UCFqijuBPinl5Ym-keX4HakQ?view_as=subscriber)<br />
-:camera: [Instagram with some life's stories and pics through my lens](https://instagram.com/wgnteiv)
+:camera: [vietnguyenw](https://instagram.com/vietnguyenw) or [this one for some life's stories and pics through my lens](https://instagram.com/wgnteiv)
 
 #### Contact with me :love_letter:
 - :email: vietnguyenhoangw@gmail.com
