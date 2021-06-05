@@ -1,13 +1,6 @@
 ### Hi there 👋
-
-```
--------------------------------------------------------
-Console.log('Hello World! Call me by Viet Nguyen :>')
--------------------------------------------------------
-```
-
 #### Somethings about myself :pencil:
-- I am currently working as a Mobile Developer ([React Native](https://reactnative.dev)). I am trying to learn, research more about ([ReactJS](https://reactjs.org/)) and ([NodeJS](https://nodejs.dev/)) for my self-skills. <br />
+- I am working as a Mobile Developer (React Native) with more than 1 years of experiences. Recently, I've been doing more research on Flutter and have worked on several projects that use the Bloc pattern.
 - I am so welcome and happy to learn, to share and to talk about IT knowlege. <br />
 - I always try to practice to improve all my skills (Tech, life, ...), everything new that make myself better everyday. <br />
 - I am intertested in reading, writing, listening and watching!
