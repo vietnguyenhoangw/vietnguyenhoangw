@@ -3,7 +3,7 @@
 
 ```
 
-It's just my heaven to research new knowledge and do homework. :D
+This is just my heaven to research new knowledge and do homework. :D
 
 ```
  ###### For more: [vietnguyenhoangw.info](https://vietnguyenhoangw.info)
