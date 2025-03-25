@@ -2,6 +2,8 @@
 
 Explore more 👉 <a href="https://vietnguyenhoangw.info" target="_blank" rel="noopener noreferrer">vietnguyenhoangw.info</a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vietnguyenhoangw&theme=dark)](https://git.io/streak-stats)
+
 - #### Github description :octocat:
 ```
 2024-04-07 07:52:40,741 3474 INFO ? github.service.server: >>> Loading vietnguyenhoangw session...
