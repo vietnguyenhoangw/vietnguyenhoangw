@@ -12,7 +12,7 @@
 - #### In love with :octocat:
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vietnguyenhoangw&theme=radical&show_icons=true&card_width=465)](https://github.com/anuraghazra/github-readme-stats) -->
 [![GitHub Streak]( https://github-readme-streak-stats-eight.vercel.app/?user=vietnguyenhoangw)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vietnguyenhoangw&layout=compact&theme=radical&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vietnguyenhoangw&layout=compact&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
 - #### Contact me &nbsp; :trollface:
 &nbsp; Discuss a project or just want to say hi? My inbox is open for all. Cant't wait to share with you about interest IT knowledge :seedling:.<br/>
