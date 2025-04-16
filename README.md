@@ -16,6 +16,7 @@
 <br/>
 <br/>
 [![wakatime](https://wakatime.com/badge/user/41d8d00e-cd58-4ac5-9282-99e1d416eb78.svg)](https://wakatime.com/@41d8d00e-cd58-4ac5-9282-99e1d416eb78)
+[<img src="https://visitor-badge.laobi.icu/badge?page_id=vietnguyenhoangw" alt="visitor badge"/>](https://visitor-badge.laobi.icu/badge?page_id=vietnguyenhoangw.visitor-badge)
 
 - #### Contact me &nbsp; :trollface:
 &nbsp; Discuss a project or just want to say hi? My inbox is open for all. Cant't wait to share with you about interest IT knowledge :seedling:.<br/>
