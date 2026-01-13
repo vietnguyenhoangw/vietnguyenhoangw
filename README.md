@@ -12,7 +12,7 @@
 - #### In love with :octocat:
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vietnguyenhoangw&theme=radical&show_icons=true&card_width=465)](https://github.com/anuraghazra/github-readme-stats) -->
 [![GitHub Streak]( https://github-readme-streak-stats-eight.vercel.app/?user=vietnguyenhoangw)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vietnguyenhoangw&layout=compact&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vietnguyenhoangw&layout=compact&card_width=500)](https://github-readme-stats-fast.vercel.app/)
 <br/>
 <br/>
 [![wakatime](https://wakatime.com/badge/user/41d8d00e-cd58-4ac5-9282-99e1d416eb78.svg)](https://wakatime.com/@41d8d00e-cd58-4ac5-9282-99e1d416eb78)
