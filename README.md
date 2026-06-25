@@ -11,7 +11,7 @@
 
 - #### In love with :octocat:
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vietnguyenhoangw&theme=radical&show_icons=true&card_width=465)](https://github.com/anuraghazra/github-readme-stats) -->
-[![GitHub Streak]( https://github-readme-streak-stats-eight.vercel.app/?user=vietnguyenhoangw)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
+<!-- [![GitHub Streak]( https://github-readme-streak-stats-eight.vercel.app/?user=vietnguyenhoangw)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp; -->
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vietnguyenhoangw&layout=compact&card_width=500)](https://github-readme-stats-fast.vercel.app/)
 <br/>
 <br/>
